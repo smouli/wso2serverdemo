@@ -4,7 +4,7 @@
 *.dll
 *.so
 *.dylib
-
+wso2demoserver
 # Test binary, build with `go test -c`
 *.test
 
